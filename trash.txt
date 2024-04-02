@@ -1,0 +1,5 @@
+color: dark - #152935
+      second- #698ea2
+      orange- #e4a576
+      light- #ccd5d2
+      white -#fde5d6
